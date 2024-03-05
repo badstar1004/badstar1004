@@ -1,9 +1,8 @@
 <!-- 타이틀 -->
 <div align=center>
-  <image src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Hello,%20I'm%20이너프&fontSize=40&color=0:87CEEB,100:B0E0E6&stroke=B0E0E6&textColor=white"/>
+  <image src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hello,%20I'm%20이너프&fontSize=40&color=0:87CEEB,100:B0E0E6&stroke=B0E0E6&textColor=white"/>
 </div>
     
----
 <!-- 내용 -->
 <div align=center>
   <h3>✨ Tech Stack ✨</h3>
@@ -16,11 +15,13 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/MyBatis-007396?style=flat"/>
     <img src="https://img.shields.io/badge/JPA-007396?style=flat"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   </div>
   <div align="center">
-    <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/.net-239120?style=flat&logo=dotnet&logoColor=white"/>
     <img src="https://img.shields.io/badge/MS%20SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/>
+    <img src="https://img.shields.io/badge/DevExpress-FF7200?style=flat&logo=devexpress&logoColor=white"/>
   </div>
 </div>
 
