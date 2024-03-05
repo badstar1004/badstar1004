@@ -8,6 +8,7 @@
   <h3>✨ Tech Stack ✨</h3>
   <div align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
     <img src="https://img.shields.io/badge/JSP-007396?style=flat&logo=java&logoColor=white"/>
   </div>
@@ -18,8 +19,8 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   </div>
   <div align="center">
-    <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
-    <img src="https://img.shields.io/badge/.net-239120?style=flat&logo=dotnet&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/.net-512BD4?style=flat&logo=dotnet&logoColor=white"/>
     <img src="https://img.shields.io/badge/MS%20SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/>
     <img src="https://img.shields.io/badge/DevExpress-FF7200?style=flat&logo=devexpress&logoColor=white"/>
   </div>
