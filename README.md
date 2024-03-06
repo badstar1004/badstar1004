@@ -36,5 +36,5 @@
 
 
 <div align=center>
-  <image src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=0:87CEEB,100:B0E0E6&stroke=B0E0E6&textColor=white"/>
+  <image src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:87CEEB,100:B0E0E6&stroke=B0E0E6&textColor=white"/>
 </div>
