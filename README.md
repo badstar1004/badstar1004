@@ -33,3 +33,8 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
+
+
+<div align=center>
+  <image src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=0:87CEEB,100:B0E0E6&stroke=B0E0E6&textColor=white"/>
+</div>
