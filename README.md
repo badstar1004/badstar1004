@@ -17,6 +17,11 @@
     <img src="https://img.shields.io/badge/MyBatis-007396?style=flat"/>
     <img src="https://img.shields.io/badge/JPA-007396?style=flat"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Oracle-C74634?style=flat&logo=oracle&logoColor=white"/>
+  </div>
+  <div align="center">
+    <img src="https://img.shields.io/badge/Vue.js-3FB984?style=flat&logo=Vue.js&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Vuex-3FB984?style=flat&logo=Vuex&logoColor=black"/>
   </div>
   <div align="center">
     <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white"/>
